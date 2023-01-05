@@ -9,5 +9,5 @@ public class JlsbApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JlsbApplication.class, args);
 	}
-
+	//http://localhost:8080/player
 }
